@@ -29,6 +29,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "postgresql01"
+    "imageid": "ubuntu:1804"
   }
 }
