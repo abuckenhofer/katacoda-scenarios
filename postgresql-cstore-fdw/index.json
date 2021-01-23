@@ -19,6 +19,7 @@
       }
     ],
     "intro": {
+	  "courseData": "env-init.sh",
       "text": "intro.md"
     },
     "finish": {
@@ -29,6 +30,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "postgresql01"
   }
 }
