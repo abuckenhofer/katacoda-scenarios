@@ -1,3 +1,3 @@
-echo "docker exec -it columnarpostgresql bash"
+docker exec -it columnarpostgresql bash
 
 
