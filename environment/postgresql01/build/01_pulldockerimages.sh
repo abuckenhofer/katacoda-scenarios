@@ -1,0 +1,1 @@
+docker pull abuckenhofer/columnarpostgresql:1.3
