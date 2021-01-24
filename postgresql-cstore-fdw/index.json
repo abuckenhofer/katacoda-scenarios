@@ -6,16 +6,20 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Columnar analytical databases",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Prepare environment",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Create tables",
         "text": "step3.md"
+      },
+      {
+        "title": "Examine tables",
+        "text": "step4.md"
       }
     ],
     "intro": {
