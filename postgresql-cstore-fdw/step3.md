@@ -15,7 +15,7 @@ CREATE TABLE ranking
 );
 ```{{execute T1}}
 
-An now create a columnar table called ranking_columnar. The create table command is the same as above except
+An now create a columnar table called ranking_columnar. The create table command is the same as above except it
 - contains the key word "foreign"
 - uses the server "store_server" created the step before
 - defines compression
