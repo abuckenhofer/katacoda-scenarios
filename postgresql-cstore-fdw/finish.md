@@ -1,0 +1,1 @@
+This scenario hopefully gave a good introduction to the PostgreSQL columnar extension cstore_fdw.

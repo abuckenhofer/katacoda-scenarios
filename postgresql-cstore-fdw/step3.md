@@ -1,6 +1,6 @@
-Now be are ready to create table.
+Now the environment is ready to create tables.
 
-First let's create a "normal" table (row-oriented table).
+First let's create a "normal" table (row-oriented table). The table is called ranking and contains several columns.
 
 ```
 CREATE TABLE ranking
@@ -15,9 +15,9 @@ CREATE TABLE ranking
 );
 ```{{execute T1}}
 
-An now create a columnar table. The create table command
+An now create a columnar table called ranking_columnar. The create table command is the same as above except
 - contains the key word "foreign"
-- uses the server sctore_server created before
+- uses the server "store_server" created the step before
 - defines compression
 
 ```
